@@ -1,0 +1,3 @@
+This is still an EARLY, very rough, project, in brainstorming mode. To avoid cluttering the main folders of the project with cruft we'll just have to reorganize and clean up later...let's keep any more extensive draft docs or notes here. Feel free to build folders up as necessary.
+
+Yes, I'm treating this more like a dropbox than a revision-controlled source repository. Whatever. The more carefully-managed stuff goes at the top level and will come once our wild swings have dampened into a more clear path....
