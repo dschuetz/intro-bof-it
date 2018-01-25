@@ -1,5 +1,25 @@
 # Rough overview of project / what to do
 
+## To Do
+
+* start using issues
+    * track things like this to-do list
+    * better forum for feedback?
+* License
+    * need to select an appropriate open-source license
+    * for the project itself (the approach, templates, etc.)
+    * also for individual workshop content
+    * CC-BY-4.0? https://choosealicense.com/licenses/cc-by-sa-4.0/
+    * basically, we want people to be free to:
+        * present workshops at cons, meetups, internal workgroups, etc.
+        * modify and extend the course materials
+        * build upon materials for wholly new, or expanded, or advacned courses
+    * while also:
+        * ensuring that this project is credited
+        * the original authors get credit for their hard work
+        * one can easily track back to original versions (like when something has been customized for a narrowly-focused offering)
+
+
 ## Background Docs
 
 * Mission Statement
